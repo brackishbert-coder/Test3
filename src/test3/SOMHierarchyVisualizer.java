@@ -4,9 +4,7 @@ import javax.swing.*;
 import javax.swing.Timer;
 
 import java.awt.*;
-import java.awt.event.*;
 import java.util.*;
-import java.util.List;
 
 // Main application class
 public class SOMHierarchyVisualizer extends JFrame {

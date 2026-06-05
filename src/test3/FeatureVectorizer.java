@@ -1,6 +1,5 @@
 package test3;
 
-import java.awt.*;
 import java.awt.image.BufferedImage;
 
 /**

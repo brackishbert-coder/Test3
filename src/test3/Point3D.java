@@ -1,9 +1,5 @@
 package test3;
 
-import java.awt.Color;
-import java.util.*;
-import java.util.List;
-
 // 3D Point class for visualization
 class Point3D {
     public double x, y, z;
